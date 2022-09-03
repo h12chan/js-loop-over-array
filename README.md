@@ -1,1 +1,1 @@
-# js-loop-over-array
+### Learn How-to Loop Over Arrays in JavaScript
