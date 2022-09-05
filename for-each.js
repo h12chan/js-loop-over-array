@@ -1,4 +1,4 @@
-require
+import train from './array.js';
 
 // for-each loop over array of elements in JavaScript
 function getElements(arr) {
@@ -6,3 +6,5 @@ function getElements(arr) {
     console.log(a);
   });
 }
+
+getElements(train);
