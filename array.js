@@ -12,3 +12,5 @@ train = [
   { colour: blue,
    type: engine}
   ]
+
+export default train;
