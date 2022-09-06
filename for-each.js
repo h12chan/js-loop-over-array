@@ -7,4 +7,4 @@ function getElements(arr) {
   });
 }
 
-getElements(train);
+export default getElements;
